@@ -2,7 +2,7 @@
 
 ## Was ist eine "künstliche Bauchspeicheldrüse” (artifical pancreas system)?
 
-Eine menschliche Bauchspeicheldrüse übernimmt neben der Regulierung des Blutzuckers noch viele andere Dinge im Körper. Der Begriff **“künstliche Bausspeicheldrüse” (APS)** beschreibt überlicherweise ein System, dass den Blutzuckerspiegel automatisiert im gesunden Bereich hält.
+Eine menschliche Bauchspeicheldrüse übernimmt neben der Regulierung des Blutzuckers noch viele andere Dinge im Körper. Der Begriff **“künstliche Bausspeicheldrüse” (APS)** beschreibt üblicherweise ein System, dass den Blutzuckerspiegel automatisiert im gesunden Bereich hält.
 
 Die einfachste Art dies zu tun ist, den **Glukosewert** zu nutzen, um damit **Berechnungen** vorzunehmen und dann eine vorberechnete **Insulin**menge in den Körper abzugeben. Diese Berechnung wird alle paar Minuten wiederholt, Tag und Nacht (24/7). Es nutzt **Alarme** und **Benachrichtigungen**, um die Benutzenden auf notwendige Eingriffe oder Besonderheiten hinzuweisen. Dieses System besteht normalerweise aus einem **Glukose-Sensor**, einer **Insulinpumpe** und einer **App** auf einem Smartphone.
 
